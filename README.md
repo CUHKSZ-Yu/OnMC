@@ -27,7 +27,7 @@ This Github repository contains the implementation of our proposed *Online Simla
 - Pros: has a theoretical guarantee on the quality of the corrected similarity matrix
 
 <p align="center">
-    <img src="./Fig/poster.png" width="600">
+    <img src="./Fig/poster.png" width="800">
 </p>
 
 ## Folders and files
@@ -41,12 +41,12 @@ This Github repository contains the implementation of our proposed *Online Simla
 ./demo_data.mat                 - A demo dataset. 
 ./similarity.m                  - Similarity matrix approximation on incomplete data. 
 
-|Baseline/                     - Some imputation baseline methods.
-|Our_Method/                   - Our proposed similarity matrix correction methods.
-   ./correct_offmc.m           - Offline similarity matrix correction method.
-   ./correct_onmc_s.m          - Online similarity matrix correction for sequential data.
-   ./correct_onmc_b.m          - Online similarity matrix correction for batch data.
-   ./correct_onmc_l.m          - Online similarity matrix correction for large-scale data.
+|Baseline/                      - Some imputation baseline methods.
+|Our_Method/                    - Our proposed similarity matrix correction methods.
+   ./correct_offmc.m            - Offline similarity matrix correction method.
+   ./correct_onmc_s.m           - Online similarity matrix correction for sequential data.
+   ./correct_onmc_b.m           - Online similarity matrix correction for batch data.
+   ./correct_onmc_l.m           - Online similarity matrix correction for large-scale data.
 </pre>
 
 
