@@ -1,18 +1,14 @@
 # **OnMC**: **On**line Similarity **M**atrix **C**orrection
 
-----------
-
 The source code for the UAI'2023 paper titled "**Online Estimation of Similarity Matrices with Incomplete Data**".
 
 
 ## Introduction
-----------
 
 This Github repository contains the implementation of our proposed *Online Simlarity Matrix Correction* algorithms, designed to enhance the estimation of similarity matrices in online scenarios, especially when dealing with incomplete observations. The algorithms are built leveraging the positive semi-definiteness (PSD) of the similarity matrix, ensuring a solid theoretical performance guarantee and an excellent potential for parallel execution on large-scale data.
 
 
 ## Method
-----------
 
 <p align="center">
     <img src="./Fig/diagram.png" width="600">
@@ -30,8 +26,8 @@ This Github repository contains the implementation of our proposed *Online Simla
     <img src="./Fig/poster.png" width="800">
 </p>
 
+
 ## Folders and files
----------
 
 <pre>
 ./                              - Top directory.
@@ -51,7 +47,6 @@ This Github repository contains the implementation of our proposed *Online Simla
 
 
 ## Citation
----------
 
 If you find this code useful for your research, please use the following BibTeX entry.
 
@@ -67,5 +62,5 @@ If you find this code useful for your research, please use the following BibTeX 
 ```
 
 ## Contact
----------
+
 If you have any problems or questions, please contact the author: Fangchen Yu (email: fangchenyu@link.cuhk.edu.cn)
