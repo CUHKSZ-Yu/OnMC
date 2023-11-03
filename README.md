@@ -1,4 +1,4 @@
-# **OnMC**: **On**line Similarity **M**atrix **C**orrection
+# **UAI2023-OnMC**: **On**line Similarity **M**atrix **C**orrection
 
 The source code for the UAI'2023 paper titled "**Online Estimation of Similarity Matrices with Incomplete Data**".
 
